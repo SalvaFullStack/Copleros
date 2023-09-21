@@ -1,0 +1,38 @@
+
+
+
+
+img {
+
+width: 100px;
+border-radius: 70px;
+
+}
+
+.interior {
+
+    display:flex; 
+  flex-direction: column;
+  background-color: antiquewhite;
+  width: 50%;
+  margin: 150px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+article {
+
+display: flex;
+flex-direction: row;
+
+}
+
+
+.exterior {
+    width: 100%;
+    background-color: lightskyblue;
+}
+
+
+
+
+
